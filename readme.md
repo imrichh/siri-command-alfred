@@ -1,5 +1,5 @@
 # Siri via Alfred
-Give text commands to Siri using Alfred.
+Give text commands to Siri using Alfred. Hackish, but works.
 ## Install
 
 1. Turn on Typing to Siri. 
